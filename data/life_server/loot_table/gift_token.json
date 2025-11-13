@@ -1,0 +1,23 @@
+{
+	"pools": [
+		{
+			"rolls": 1,
+			"functions": [
+				{
+					"function": "set_components",
+					"components": {
+						"!jukebox_playable": {},
+						"custom_name": "§r§5§lGift Token"
+					}
+				}
+			],
+			"entries": [
+				{
+					"type": "item",
+					"name": "minecraft:music_disc_far"
+				}
+			]
+		}
+	]
+	
+}

@@ -1,0 +1,1 @@
+execute as @a run function life_server:life_counter/reset_lives

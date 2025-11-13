@@ -1,0 +1,26 @@
+{
+	"pools": [
+		{
+			"rolls": 1,
+			"functions": [
+				{
+					"function": "set_components",
+					"components": {
+						"!jukebox_playable": {},
+						"custom_name": "§r§4§lDeath Token",
+						"custom_model_data": {
+							"strings": ["life_server:death_token"]
+						}
+					}
+				}
+			],
+			"entries": [
+				{
+					"type": "item",
+					"name": "minecraft:music_disc_far"
+				}
+			]
+		}
+	]
+	
+}

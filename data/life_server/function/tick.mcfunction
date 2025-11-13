@@ -1,0 +1,1 @@
+function life_server:life_counter/tick
